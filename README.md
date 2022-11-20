@@ -1,6 +1,6 @@
 # NMRIHPing
 （Steam免费游戏地狱已满）向服务器发送UDP请求获取服务器信息及玩家  
-1、发送UDP协议数据包到（服务器、端口） 具体演员可往下看👇  
+1、发送UDP协议数据包到（服务器、端口） 具体原理可往下看👇  
 ![buhuo](https://user-images.githubusercontent.com/42183711/202880158-470ecf05-8a76-41f9-a1cd-2b5f3acc7859.PNG)
 # 发送原理
 # 1、获取服务器信息
