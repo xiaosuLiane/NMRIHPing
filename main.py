@@ -6,7 +6,7 @@ import socket
 import chardet
 
 a = bytes.fromhex("ffffffff54536f7572636520456e67696e6520517565727900")
-other_addr = ('121.5.51.123', 27015)
+other_addr = ('42.192.201.105', 27070)
 net = socket.socket(socket.AF_INET,socket.SOCK_DGRAM)
 net.sendto(a,other_addr)
 reply,other = net.recvfrom(1024)
