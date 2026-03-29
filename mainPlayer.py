@@ -92,4 +92,4 @@ if __name__ == '__main__':
     #             print(i,' ',len(i),' ',a["encoding"])
     #     except:
     #         pass
-    #This code is ping NMRIHserver by Pushad QQ:3261601443
+    #This code is ping NMRIHserver by Pushad
